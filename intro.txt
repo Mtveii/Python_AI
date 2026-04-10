@@ -22,7 +22,7 @@ LLM (ВММ) - великі мовні моделі - системи з прав
 
 Підготовка: віртуальне оточення
 > cd ..                                у VSCode - переходимо "над" проєктом
-> python -m venv PythonAi              PythonAiP33 - назва проєкту
+> python -m venv Python_Ai             PythonAiP33 - назва проєкту
 > cd Python_Ai                         повертаємось у проєкт 
 > ./Scripts/Activate.ps1               активуємо оточення
 бажано зробити .gitignore, вилучити з репозиторію дані про оточення
