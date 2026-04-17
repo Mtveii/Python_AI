@@ -40,3 +40,7 @@ https://jupyter.org/
 Інформаційні ресурси
 https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html
 https://medium.com/analytics-vidhya/the-ultimate-markdown-guide-for-jupyter-notebook-d5e5abf728fd
+
+
+python -m pip install numpy  
+python -m notebook
