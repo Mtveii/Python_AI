@@ -35,6 +35,7 @@ https://jupyter.org/
 > pip install jupyter
  > pip install pandas
   >pip install numpy  
+   >pip install matplotlib
 > pip freeze > libs.txt 
 
 > jupyter notebook
