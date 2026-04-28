@@ -38,6 +38,7 @@ https://jupyter.org/
    >pip install matplotlib
 > pip freeze > libs.txt 
 
+> pip install -r libs.txt
 > jupyter notebook
 
 
