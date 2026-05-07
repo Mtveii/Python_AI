@@ -11,7 +11,7 @@
             "rank": 0.1
           },
           {
-            "command": "inspector:toggle",
+            "command": "inspector:open",
             "rank": 0.1
           },
           {
@@ -24,9 +24,14 @@
   },
   "jupyter.lab.shortcuts": [
     {
-      "command": "inspector:toggle",
+      "command": "inspector:open",
       "keys": ["Accel I"],
       "selector": "body"
+    },
+    {
+      "command": "inspector:close",
+      "keys": ["Accel I"],
+      "selector": "body[data-jp-inspector='open']"
     }
   ],
   "properties": {},

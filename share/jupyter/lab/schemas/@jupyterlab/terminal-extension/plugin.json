@@ -53,7 +53,7 @@
       "title": "Font family",
       "description": "The font family used to render text.",
       "$ref": "#/definitions/fontFamily",
-      "default": "ui-monospace, monospace"
+      "default": "monospace"
     },
     "fontSize": {
       "title": "Font size",

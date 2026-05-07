@@ -4,7 +4,7 @@
   "jupyter.lab.menus": {
     "context": [
       {
-        "command": "inspector:toggle",
+        "command": "inspector:open",
         "selector": ".jp-CodeConsole-promptCell",
         "rank": 5
       }

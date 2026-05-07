@@ -1,10 +1,10 @@
 Підготовка: віртуальне оточення
 > cd ..                                у VSCode - переходимо "над" проєктом
-> python -m venv Python_Ai              PythonAiP33 - назва проєкту
+> python -m venv Python_Ai             PythonAiP33 - назва проєкту
 > cd Python_Ai                         повертаємось у проєкт 
 > ./Scripts/Activate.ps1               активуємо оточення
-бажано зробити .gitignore, вилучити з репозиторію дані про оточення
-створюємо директорію для робочих файлів 
+бажано зробити .gitignore, вилучити з  репозиторію дані про оточення
+створюємо директорію для робочих файлів
 
 Інструментарій:
 https://jupyter.org/
@@ -25,7 +25,8 @@ python -m notebook
 
 ---------------------------
 Ubuntu 
-cd .. 
-python3 -m venv Python_AI
-cd Python_AI
-./bin/activate
+
+> cd ..                                у VSCode - переходимо "над" проєктом
+> python3 -m venv Python_AI            PythonAiP33 - назва проєкту
+> cd Python_Ai                         повертаємось у проєкт 
+> ./bin/activate                       активуємо оточення
