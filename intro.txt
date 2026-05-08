@@ -13,6 +13,7 @@ https://jupyter.org/
  > pip install pandas
   >pip install numpy  
    >pip install matplotlib
+    >pip install statsmodels
 > pip freeze > libs.txt 
 
 > pip install -r libs.txt
@@ -20,6 +21,10 @@ https://jupyter.org/
 
 
 python -m pip install numpy  
+python -m pip install pandas
+python -m pip install pandas
+python -m pip install jupyter
+python -m pip install matplotlib
 python -m notebook
 
 
