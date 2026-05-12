@@ -9,12 +9,13 @@
 Інструментарій:
 https://jupyter.org/
 (!! в активованому віртуальному оточенні)
-> pip install jupyter
- > pip install pandas
-  >pip install numpy  
-   >pip install matplotlib
-    >pip install statsmodels
-     >pip install scikit-learn
+> pip install -U jupyter
+ > pip install -U pandas
+  > pip install -U numpy  
+   > pip install -U matplotlib
+    > pip install -U statsmodels
+     > pip install -U scikit-learn
+      > pip install -U torch
 > pip freeze > libs.txt 
 
 > pip install -r libs.txt
