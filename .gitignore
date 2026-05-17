@@ -1,15 +1,2 @@
-Lib/
-Scripts/
-Include/
-share/
-pyvenv.cfg
-
-__pycache__/
-*.pyc
-*.pyo
-
-.ipynb_checkpoints/
-
-.env
-
-pyvenv.cfg" > .gitignore
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*
