@@ -2,6 +2,7 @@ Lib/
 Scripts/
 Include/
 share/
+etc/
 pyvenv.cfg
 
 __pycache__/
@@ -9,5 +10,4 @@ __pycache__/
 *.pyo
 
 .ipynb_checkpoints/
-
 .env
