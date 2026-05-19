@@ -2,7 +2,7 @@ Lib/
 Scripts/
 Include/
 share/
-etc/
+etc/*
 pyvenv.cfg
 
 __pycache__/
