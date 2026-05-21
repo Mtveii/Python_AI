@@ -16,9 +16,10 @@ https://jupyter.org/
     > pip install -U statsmodels
      > pip install -U scikit-learn
       > pip install -U torch
+       > pip install -U torchvision
 > pip freeze > libs.txt 
 
-> pip install -r libs.txt
+> pip install -r libs.txt |& jupyter notebook
 > jupyter notebook
 
 
