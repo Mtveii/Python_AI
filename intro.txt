@@ -17,6 +17,7 @@ https://jupyter.org/
      > pip install -U scikit-learn
       > pip install -U torch
        > pip install -U torchvision
+        > pip  insatll -U nltk
 > pip freeze > libs.txt 
 
 > pip install -r libs.txt |& jupyter notebook
